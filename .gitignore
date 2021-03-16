@@ -1,3 +1,9 @@
+target
+
 .idea
+.mvn
 *.iml
-*.exe
+
+.settings
+.classpath
+.project
